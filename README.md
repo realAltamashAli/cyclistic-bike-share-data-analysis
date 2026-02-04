@@ -21,13 +21,13 @@ Determine how annual members and casual riders use Cyclistic bikes differently a
 ## Repository Structure
 cyclistic-bike-share-data-analysis/
 ├── raw-data/
-│ └── README.txt
+│   └── README.txt
 ├── analysis/
-│ ├── cyclistic_analysis_summary.pdf
-│ └── README.txt
+│   ├── cyclistic_analysis_summary.pdf
+│   └── README.txt
 ├── presentation/
-│ ├── Cyclistic Bike Share Data Analysis (Detailed) By Altamash Ali.pptx
-│ └── README.txt
+│   ├── Cyclistic Bike Share Data Analysis (Detailed) By Altamash Ali.pptx
+│   └── README.txt
 └── README.md
 
 ---
