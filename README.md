@@ -1,5 +1,8 @@
 # Cyclistic Bike Share Data Analysis
 
+[![Verified Certificate](https://img.shields.io/badge/Credential-Credly-orange)](https://www.credly.com/badges/6fc0ca82-adcc-4c49-8076-a7cb4f291eb1/linked_in_profile)
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 ## Project Overview
 This project analyzes Cyclistic bike-share data to compare the usage behavior of annual members and casual riders. The goal is to generate insights that can support a marketing strategy focused on increasing annual memberships.
 
@@ -8,13 +11,14 @@ This project was completed as part of the Google Data Analytics Professional Cer
 ---
 
 ## Business Objective
-Determine how annual members and casual riders use Cyclistic bikes differently and identify behavioral patterns that can inform membership conversion strategies.
+To identify how usage patterns differ between rider types and determine the key factors that influence membership conversion, providing a foundation for targeted marketing initiatives.
 
 ---
 
-## Tools Used
-- Microsoft Excel (data cleaning, exploratory data analysis, pivot tables, and charts)
-- PowerPoint (data visualization and presentation of insights)
+## Tools & Competencies
+* **Microsoft Excel:** Data cleaning, processing (via sampling), and exploratory data analysis (EDA).
+* **Pivot Tables & Statistical Modeling:** Identifying trends in ride duration, peak usage times, and seasonal patterns.
+* **PowerPoint:** Crafting a professional executive summary and visualizing complex data for stakeholders.
 
 ---
 
