@@ -1,6 +1,6 @@
 # Cyclistic Bike Share Data Analysis
 
-[![Verified Certificate](https://img.shields.io/badge/Credential-Credly-orange)](https://www.credly.com/badges/6fc0ca82-adcc-4c49-8076-a7cb4f291eb1/linked_in_profile)
+[![Google Certified](https://img.shields.io/badge/Certified-Google-4285F4?logo=google&logoColor=white)](https://www.credly.com/badges/6fc0ca82-adcc-4c49-8076-a7cb4f291eb1/linked_in_profile)
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 ## Project Overview
