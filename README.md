@@ -55,4 +55,4 @@ The complete findings, visualizations, and business recommendations are presente
 
 ## Author
 **Altamash Ali**  
-Entry-Level Data Analyst
+Data Analyst
